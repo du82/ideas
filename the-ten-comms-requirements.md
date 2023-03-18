@@ -9,7 +9,7 @@ Communications online are part of our daily lives, so they should live up to som
 4. Work over various hosting schemes, such as centralized, federated, P2P, and they should be able to intermingle.
 5. Work on hardware old and new, everything from an 80's terminal to the latest AI workstations.
 6. Continue to function if the company behind the standard stops development or goes bankrupt.
-7. Have flexible licensing to allow for others to build on top of the existing technology without needing to ask for permission.
+7. Have flexible licensing to allow for others to build on top of or modify the existing technology without needing to ask for permission.
 8. Offer modern end-to-end encryption and perfect forward secrecy mechanisms.
 9. Give users control over their data and make it easy to move to and from other platforms.
 10. Be audited by third parties without requiring any form of communcation with or approval from the organization that maintains the standard.
