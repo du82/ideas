@@ -1,6 +1,6 @@
 Messaging standards of the future need to be able to:
 
-*   Transfer data over any medium, from FM radio to bluetooth, to regular internet.
+*   Transfer data over any medium, from two-way FM radio to bluetooth, to regular internet.
 *   Handle text based messaging while staying under 20 Kbps
 *   Adapt and change to meet new requirements, without breaking existing compatibility
 *   Work over various hosting schemes, such as centralized, federated, P2P, and they should be able to intermingle.
